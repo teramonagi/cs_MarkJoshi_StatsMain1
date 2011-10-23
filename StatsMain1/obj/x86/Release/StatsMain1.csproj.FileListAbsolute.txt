@@ -1,0 +1,10 @@
+C:\Users\yana\AppData\Local\Temporary Projects\StatsMain1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\yana\AppData\Local\Temporary Projects\StatsMain1\bin\Release\StatsMain1.exe
+C:\Users\yana\AppData\Local\Temporary Projects\StatsMain1\bin\Release\StatsMain1.pdb
+C:\Users\yana\AppData\Local\Temporary Projects\StatsMain1\obj\x86\Release\StatsMain1.exe
+C:\Users\yana\AppData\Local\Temporary Projects\StatsMain1\obj\x86\Release\StatsMain1.pdb
+C:\Users\yana\documents\visual studio 2010\Projects\StatsMain1\StatsMain1\obj\x86\Release\StatsMain1.exe
+C:\Users\yana\documents\visual studio 2010\Projects\StatsMain1\StatsMain1\obj\x86\Release\StatsMain1.pdb
+C:\Users\yana\documents\visual studio 2010\Projects\StatsMain1\StatsMain1\bin\Release\StatsMain1.exe
+C:\Users\yana\documents\visual studio 2010\Projects\StatsMain1\StatsMain1\bin\Release\StatsMain1.pdb
+C:\Users\yana\documents\visual studio 2010\Projects\StatsMain1\StatsMain1\obj\x86\Release\ResolveAssemblyReference.cache
